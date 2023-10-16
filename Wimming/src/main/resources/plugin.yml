@@ -1,0 +1,4 @@
+name: Wimming
+version: '${project.version}'
+main: com.malcolmjh.wimming.Wimming
+api-version: '1.20'
